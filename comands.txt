@@ -39,5 +39,11 @@ cat abc.txt
 scp abc.txt vagrant@{ipAddressofVM2}:/home/vagrant
 
 
+--------------------------------
+
+cloud computing code
+
+https://bit.ly/gitSumit
 
 
+---------------------------
